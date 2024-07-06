@@ -1,3 +1,11 @@
 HI ALEX
 
 This is Andy saying Hello and Welcome to our first day of working together on this project, I am so excite1
+
+
+
+
+
+
+I added this down low hoping we don't get a merge error
+
